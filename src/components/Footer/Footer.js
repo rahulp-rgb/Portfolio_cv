@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <a
-        href="https://www.linkedin.com/in/rahul-singh-parihar-49a2a3190/"
+        href="https://www.linkedin.com/in/payal-chauhan-39a702341/"
         className="footer__link"
         target="_blank"
         rel="noopener noreferrer"
