@@ -6,7 +6,7 @@ export default function Hero() {
     <Container style={{ textAlign: "center", padding: "50px 0" }}>
       <Box className="about center">
         <Typography variant="h3">
-          Hi, I am <span className="about__name">Rahul Singh Parihar</span>
+          Hi, I am <span className="about__name">Payal Chauhan</span>
         </Typography>
         <Typography variant="h5" className="about__role">
           A Full Stack Developer.
@@ -24,7 +24,7 @@ export default function Hero() {
         {/* Contact Section */}
         <Box className="about__contact center" mt={3}>
           <IconButton
-            href="https://drive.google.com/file/d/13pehmVX_oJuK9wQ4Iv0Ew99kSaKYwlvE/view"
+            href="/Payal_Resume.pdf"
             target="_blank"
             aria-label="Resume"
           >
@@ -32,7 +32,7 @@ export default function Hero() {
           </IconButton>
 
           <IconButton
-            href="https://leetcode.com/u/RahulSinghParihar01/"
+            href="https://leetcode.com/u/PayalChauhan01/"
             target="_blank"
             aria-label="LeetCode"
           >
@@ -40,7 +40,7 @@ export default function Hero() {
           </IconButton>
 
           <IconButton
-            href="https://github.com/Rahul29050"
+            href="https://github.com/PayalChauhan01"
             target="_blank"
             aria-label="GitHub"
           >
@@ -48,7 +48,7 @@ export default function Hero() {
           </IconButton>
 
           <IconButton
-            href="https://www.linkedin.com/in/rahul-singh-parihar-49a2a3190/"
+            href="https://www.linkedin.com/in/payal-chauhan-39a702341/"
             target="_blank"
             aria-label="LinkedIn"
           >

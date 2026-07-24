@@ -19,14 +19,14 @@ const projects = [
     github: "https://github.com/Rahul29050/Polling-App---Node-JS",
     live: "https://your-live-link.com",
   },
-  {
-    title: "iCreator.ai",
-    description:
-      "A template generation platform where users can log in using MSAL (Microsoft Authentication Library), search for templates, and download code based on selected templates. The app utilizes Microsoft Graph API and SharePoint for seamless integration and content access.",
-    stack: ["ReactJS", "Graph API", "SharePoint", "MSAL"],
-    github: "https://github.com/your-github",
-    live: "https://your-live-link.com",
-  },
+  // {
+  //   title: "iCreator.ai",
+  //   description:
+  //     "A template generation platform where users can log in using MSAL (Microsoft Authentication Library), search for templates, and download code based on selected templates. The app utilizes Microsoft Graph API and SharePoint for seamless integration and content access.",
+  //   stack: ["ReactJS", "Graph API", "SharePoint", "MSAL"],
+  //   github: "https://github.com/your-github",
+  //   live: "https://your-live-link.com",
+  // },
   // {
   //   title: "Multi-FEIN",
   //   description:

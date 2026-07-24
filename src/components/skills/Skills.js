@@ -2,26 +2,16 @@ import React from "react";
 import "./Skills.css";
 
 const skills = [
-  "C",
   "C++",
   "JavaScript",
   "TypeScript",
   "React.js",
-  "Vue.js",
   "Node.js",
   "Express.js",
-  "ASP.net Core",
   "MongoDB",
   "SQL",
-  "TeamCity",
-  "Octopus",
-  "New-relic",
-  "Azure Cloud",
   "Git",
-  "GitHub",
-  "Azure DevOps",
-  "Power Apps",
-  "PCF Components"
+  "GitHub"
 ];
 
 const Skills = () => {

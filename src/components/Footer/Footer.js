@@ -10,7 +10,7 @@ const Footer = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Created by Rahul Singh Parihar  
+        Created by Payal Chauhan | &copy; {new Date().getFullYear()} All rights reserved.  
       </a>
     </footer>
   );

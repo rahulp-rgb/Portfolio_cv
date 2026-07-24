@@ -7,7 +7,7 @@ export default function Header({ toggleTheme, darkMode }) {
   return (
     <AppBar position="static">
       <Toolbar>
-        <Typography variant="h6" style={{ flexGrow: 1 }}>RSP</Typography>
+        <Typography variant="h6" style={{ flexGrow: 1 }}>Portfolio</Typography>
 
         <Link to="projects" smooth={true} duration={800}>
           <Button color="inherit">Projects</Button>
